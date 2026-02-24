@@ -42,7 +42,7 @@ Email: ondra.w08@gmail.com
 
 ## 🌍 Live Demo
 
-
+https://nova-build-teal.vercel.app/
 
 ## 📦 Installation & Run
 
